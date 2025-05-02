@@ -1,4 +1,3 @@
-
 <h1 align="left">Hi 👋! My name is Akshit Sahore .I'm a passionate to be a software Engineer, from India</h1>
 
 ###
@@ -45,6 +44,6 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://imgs.search.brave.com/AeCgs54WNmqwnilBk9kuLzUKpkKhJowxWaJHv-qYu-M/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvYWktaHVt/YW5vaWQtYXV0b21h/dGlvbi16YjNkdDFz/MG4xMXVjZndiLmdp/Zg.jpeg"  />
 
 ###
