@@ -44,6 +44,14 @@
 
 ###
 
+### 📊 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=akshhit-git24&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=akshit-git24&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+
 <img align="right" height="150" src="https://imgs.search.brave.com/AeCgs54WNmqwnilBk9kuLzUKpkKhJowxWaJHv-qYu-M/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvYWktaHVt/YW5vaWQtYXV0b21h/dGlvbi16YjNkdDFz/MG4xMXVjZndiLmdp/Zg.jpeg"  />
 
 ###
