@@ -73,47 +73,45 @@ Passionate about building scalable systems, exploring AI, and solving real-world
 
 # 🌱 Frontend Stack
 
-<p>
-<img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/typescript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white"/>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=js" height="45"/>
+<img src="https://skillicons.dev/icons?i=ts" height="45"/>
+<img src="https://skillicons.dev/icons?i=react" height="45"/>
+<img src="https://skillicons.dev/icons?i=nextjs" height="45"/>
 </p>
-
 ---
 
 # ⚙ Backend Stack
 
-<p>
-<img src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/>
-<img src="https://img.shields.io/badge/DRF-%23A30000.svg?style=for-the-badge&logo=django&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-%2300C7B7.svg?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/>
-<img src="https://img.shields.io/badge/grpc-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white"/>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python" height="45"/>
+<img src="https://skillicons.dev/icons?i=django" height="45"/>
+<img src="https://skillicons.dev/icons?i=fastapi" height="45"/>
+<img src="https://skillicons.dev/icons?i=go" height="45"/>
+<img src="https://skillicons.dev/icons?i=grpc" height="45"/>
 </p>
 
 ---
 
 # 📊 Databases & Messaging
 
-<p>
-<img src="https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white"/>
-<img src="https://img.shields.io/badge/kafka-%23000000.svg?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=postgres" height="45"/>
+<img src="https://skillicons.dev/icons?i=redis" height="45"/>
+<img src="https://skillicons.dev/icons?i=kafka" height="45"/>
 </p>
 
 ---
 
 # 🤖 AI / ML
 
-<p>
-<img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/matplotlib-%23000000.svg?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/tableau-%23E97627.svg?style=for-the-badge&logo=tableau&logoColor=white"/>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="45"/>
+<img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" height="45"/>
 </p>
-
 ---
 
 # 🚀 DevOps
