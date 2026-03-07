@@ -79,7 +79,7 @@ Passionate about building scalable systems, exploring AI, and solving real-world
 <img src="https://skillicons.dev/icons?i=react" height="45"/>
 <img src="https://skillicons.dev/icons?i=nextjs" height="45"/>
 </p>
----
+
 
 # ⚙ Backend Stack
 
@@ -91,7 +91,7 @@ Passionate about building scalable systems, exploring AI, and solving real-world
 <img src="https://skillicons.dev/icons?i=grpc" height="45"/>
 </p>
 
----
+
 
 # 📊 Databases & Messaging
 
@@ -101,7 +101,7 @@ Passionate about building scalable systems, exploring AI, and solving real-world
 <img src="https://skillicons.dev/icons?i=kafka" height="45"/>
 </p>
 
----
+
 
 # 🤖 AI / ML
 
@@ -112,14 +112,14 @@ Passionate about building scalable systems, exploring AI, and solving real-world
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="45"/>
 <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" height="45"/>
 </p>
----
+
 
 # 🚀 DevOps
 
-<p>
-<img src="https://img.shields.io/badge/Docker-46a2f1.svg?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/gitlab-%23FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white"/>
-<img src="https://img.shields.io/badge/render-%230046FF.svg?style=for-the-badge&logo=render&logoColor=white"/>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=docker" height="45"/>
+<img src="https://skillicons.dev/icons?i=git" height="45"/>
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
+<img src="https://skillicons.dev/icons?i=gitlab" height="45"/>
+<img src="https://skillicons.dev/icons?i=aws" height="45"/>
 </p>
