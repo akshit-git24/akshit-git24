@@ -43,7 +43,7 @@ and understanding how modern software works internally.
 
 - 🔭 I’m currently working on **building SaaS microservices**
 - 🤖 Interested in **AI, Machine Learning, Software Development and DevOps**
-- 😎 Working as **Full Stack Developer Intern at NV Global Tech**
+<!-- - 😎 Working as **Full Stack Developer Intern at NV Global Tech** -->
 - 🌱 Currently learning **Microservices and Data Structures**
 - 👯 Looking to collaborate on **large scale SaaS projects**
 - 💬 Ask me about **Python web development and JS/TS**
