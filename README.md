@@ -1,48 +1,60 @@
-<h1 align="center">🌟 Welcome to my Profile ✨</h1>
+<div align="center">
 
-<h3 align="center">
-Hi 👋 I'm <b>Akshit Sahore</b> — aspiring Software Engineer from India
-</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:05a187,100:2d04fd&height=200&section=header&text=Akshit%20Sahore&fontSize=45&fontColor=ffffff&animation=fadeIn" width="100%" />
+
+</div>
 
 <p align="center">
-Passionate about building scalable systems, exploring AI, and solving real-world problems through software.
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=900&color=05A187&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Backend+Engineer;Microservices+Enthusiast;AI+%7C+Distributed+Systems+Explorer;GOpher" />
+
 </p>
 
 ---
 
-## 🌐 Connect With Me
+<p align="center">
+Passionate about building scalable SaaS systems, exploring distributed architectures,  
+and understanding how modern software works internally.
+</p>
+
+---
 
 <p align="center">
+
 <a href="https://www.instagram.com/cipher_craze2827?igsh=MTM0Y2gyODNjenlhcw==" target="_blank">
-<img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&logoColor=white&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 <a href="akshitsahore2827@gmail.com" target="_blank">
-<img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="www.linkedin.com/in/akshit-sahore-198845313" target="_blank">
-<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
 </p>
 
 ---
 
-# 👦 About Me
+## 👨‍💻 About Me
 
 <img align="right" src="https://tse3.mm.bing.net/th/id/OIP.fmmAx2o6NndScaWWcPGcYQHaE8?rs=1&pid=ImgDetMain&o=7&rm=3" width="30%" />
 
-- 🔭 Currently working on **building SaaS Microservices**
-- 🤖 Interested in **AI, Machine Learning, Software Development, and DevOps**
+- 🔭 I’m currently working on **building SaaS microservices**
+- 🤖 Interested in **AI, Machine Learning, Software Development and DevOps**
 - 😎 Working as **Full Stack Developer Intern at NV Global Tech**
-- 🌱 Learning **Microservices Architecture and Data Structures**
+- 🌱 Currently learning **Microservices and Data Structures**
 - 👯 Looking to collaborate on **large scale SaaS projects**
-- 💬 Ask me about **Python web development and Golang**
-- 😄 Pronouns: **He / Him**
-- ⚡ Fun fact: Fascinated by **new tech domains in Computer Science and Mathematics**
+- 💬 Ask me about **Python web development and JS/TS**
+- 😄 Pronouns: **He/Him**
+- ⚡ Fascinated by **new tech domains in Computer Science and Mathematics**
 
 ---
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:05a187,100:2d04fd&height=2&section=footer"/>
+
+## 📈 GitHub Stats
 # 📈 GitHub Stats
 
 <div align="center">
