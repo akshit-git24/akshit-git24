@@ -125,7 +125,6 @@ and understanding how modern software works internally.
 <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" height="45"/>
 </p>
 
-
 # 🚀 DevOps
 
 <p align="left">
