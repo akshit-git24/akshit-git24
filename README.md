@@ -37,7 +37,7 @@ Passionate about building scalable systems, exploring AI, and solving real-world
 - 😎 Working as **Full Stack Developer Intern at NV Global Tech**
 - 🌱 Learning **Microservices Architecture and Data Structures**
 - 👯 Looking to collaborate on **large scale SaaS projects**
-- 💬 Ask me about **Python web development and JS/TS**
+- 💬 Ask me about **Python web development and Golang**
 - 😄 Pronouns: **He / Him**
 - ⚡ Fun fact: Fascinated by **new tech domains in Computer Science and Mathematics**
 
