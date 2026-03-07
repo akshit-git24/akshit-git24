@@ -50,11 +50,10 @@ and understanding how modern software works internally.
 - 😄 Pronouns: **He/Him**
 - ⚡ Fascinated by **new tech domains in Computer Science and Mathematics**
 
----
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:05a187,100:2d04fd&height=2&section=footer"/>
 
-## 📈 GitHub Stats
+
 # 📈 GitHub Stats
 
 <div align="center">
