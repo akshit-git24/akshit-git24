@@ -88,7 +88,8 @@ Passionate about building scalable systems, exploring AI, and solving real-world
 <img src="https://skillicons.dev/icons?i=django" height="45"/>
 <img src="https://skillicons.dev/icons?i=fastapi" height="45"/>
 <img src="https://skillicons.dev/icons?i=go" height="45"/>
-<img src="https://skillicons.dev/icons?i=grpc" height="45"/>
+<img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" height="45"/>
+<img src="https://grpc.io/img/logos/grpc-icon-color.png" height="45"/>
 </p>
 
 
