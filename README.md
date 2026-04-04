@@ -80,6 +80,27 @@ and understanding how modern software works internally.
 
 </div>
 
+<p align="center">
+  <a href="https://github.com/akshit-git24">
+    <img src="https://github-profile-repo.vercel.app/?username=akshit-git24&theme=aura&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  </a>
+</p>
+
+<details open>
+  <summary><h2>🟡 Pacman Contribution Graph</h2></summary>
+
+  <br>
+    
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akshit-git24/akshit-git24/output/pacman-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akshit-git24/akshit-git24/output/pacman-contribution-graph.svg" />
+    <img src="https://raw.githubusercontent.com/akshit-git24/akshit-git24/output/pacman-contribution-graph.svg" alt="Pacman contribution animation" />
+  </picture>
+  <br/>
+  <sub><i>Auto-generated every 12 hours via GitHub Actions.</i></sub>
+</div>
+</details>
 ---
 
 # 🌱 Frontend Stack
