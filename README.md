@@ -91,7 +91,7 @@ and understanding how modern software works internally.
 
   <br>
     
-<div align="center">
+<!-- <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akshit-git24/akshit-git24/output/pacman-contribution-graph-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akshit-git24/akshit-git24/output/pacman-contribution-graph.svg" />
@@ -100,7 +100,7 @@ and understanding how modern software works internally.
   <br/>
   <sub><i>Auto-generated every 12 hours via GitHub Actions.</i></sub>
 </div>
-</details>
+</details> -->
 ---
 
 # 🌱 Frontend Stack
