@@ -86,11 +86,11 @@ and understanding how modern software works internally.
   </a>
 </p>
 
-<details open>
+<!-- <details open>
   <summary><h2>🟡 Pacman Contribution Graph</h2></summary>
 
   <br>
-    
+     -->
 <!-- <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akshit-git24/akshit-git24/output/pacman-contribution-graph-dark.svg" />
