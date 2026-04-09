@@ -74,9 +74,6 @@ and understanding how modern software works internally.
 
 <img src="https://github-readme-streak-stats-eight.vercel.app/?user=akshit-git24&theme=tokyonight"/>
 
-<!-- <br> -->
-
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=akshit-git24&show_icons=true&theme=tokyonight"/> -->
 
 </div>
 
