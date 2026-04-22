@@ -13,7 +13,7 @@
 ---
 
 <p align="center">
-Passionate about building scalable SaaS systems, exploring distributed architectures,  
+Passionate about building scalable SaaS systems, Infra Products, exploring distributed architectures,  
 and understanding how modern software works internally.
 </p>
 
@@ -39,14 +39,25 @@ and understanding how modern software works internally.
 
 ## 👨‍💻 About Me
 
-<img align="right" src="https://tse3.mm.bing.net/th/id/OIP.fmmAx2o6NndScaWWcPGcYQHaE8?rs=1&pid=ImgDetMain&o=7&rm=3" width="30%" />
+<p align="center">
+  <img
+    width="200"
+    height="200"
+    src="https://media.tenor.com/hD56X-Q5AzMAAAAj/gopher-shaking.gif"
+    alt="Go Gopher"
+  />
+</p>
 
-- 🔭 I’m currently working on **building SaaS microservices**
+<h3 align="center">
+  building scalable backends · distributed systems · Infra
+</h3>
+
+- 🔭 I’m currently working on **building Infra for Distributive systems**
 - 🤖 Interested in **AI, Machine Learning, Software Development and DevOps**
 <!-- - 😎 Working as **Full Stack Developer Intern at NV Global Tech** -->
-- 🌱 Currently learning **Microservices and Data Structures**
-- 👯 Looking to collaborate on **large scale SaaS projects**
-- 💬 Ask me about **Python web development and JS/TS**
+- 🌱 Currently learning **Distributive and Data Structures**
+- 👯 Looking to collaborate on **large scale SaaS & Infra projects**
+- 💬 Ask me about **Golang based**
 - 😄 Pronouns: **He/Him**
 - ⚡ Fascinated by **new tech domains in Computer Science and Mathematics**
 
